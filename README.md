@@ -4,7 +4,7 @@
 
 
 ## Projetos/pastas separados pelos cursos:
-- ### [/jogos/](https://github.com/TomazWill/python-alura/tree/master/jogos)
+- ### [/ci-1/](https://github.com/TomazWill/ci-alura/tree/master/ci-1)
   - Curso: Integração Contínua: testes automatizados e pipeline no Github Actions
   - Curso: Integração Contínua: Pipeline Docker no Github Actions
 
