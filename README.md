@@ -4,8 +4,10 @@
 
 
 ## Projetos/pastas separados pelos cursos:
-- ### [/ci-1/](https://github.com/TomazWill/ci-alura/tree/master/ci-1)
+- ### [/ci-1/](https://github.com/TomazWill/ci-alura/tree/ci1)
   - Curso: Integração Contínua: testes automatizados e pipeline no Github Actions
+  
+- ### [/ci-2/](https://github.com/TomazWill/ci-alura/tree/ci2)
   - Curso: Integração Contínua: Pipeline Docker no Github Actions
 
 
