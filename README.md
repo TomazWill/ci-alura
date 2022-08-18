@@ -3,11 +3,11 @@
 <br>
 
 
-## Projetos/pastas separados pelos cursos:
-- ### [/ci-1/](https://github.com/TomazWill/ci-alura/tree/ci1)
+## Projetos/pastas separados pelos cursos e suas devidas branch:
+- ### [ci-1](https://github.com/TomazWill/ci-alura/tree/ci1)
   - Curso: Integração Contínua: testes automatizados e pipeline no Github Actions
   
-- ### [/ci-2/](https://github.com/TomazWill/ci-alura/tree/ci2)
+- ### [ci-2](https://github.com/TomazWill/ci-alura/tree/ci2)
   - Curso: Integração Contínua: Pipeline Docker no Github Actions
 
 
