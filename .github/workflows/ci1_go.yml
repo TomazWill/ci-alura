@@ -2,9 +2,9 @@ name: ci1 Go
 
 on:
   push:
-    branches: [ master ]
+    branches: [ ci1 ]
   pull_request:
-    branches: [ master ]
+    branches: [ ci1 ]
 
 jobs:
 
