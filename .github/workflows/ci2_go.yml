@@ -53,3 +53,4 @@ jobs:
   docker:
     needs: build
     uses: ./.github/workflows/docker-ci2.yml
+    secrets: inherit #Para utilizar os segredos dos 'secrets'
